@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity": "^3.670.0",
+    "@aws-sdk/client-iot-data-plane": "^3.670.0",
+    "@aws-sdk/credential-provider-cognito-identity": "^3.670.0",
+    "aws-sdk": "^2.1691.0"
+  }
+}
